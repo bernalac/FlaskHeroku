@@ -38,3 +38,7 @@ El archivo requirements. txt permite automatizar la instalación de paquetes y a
 ```
     $ pip3 freeze > requiremets.txt
 ```
+
+## Authors
+
+* **Javier Bernal** - *Initial work* 
