@@ -38,7 +38,7 @@ Las aplicaciones de Heroku incluyen un Procfile que especifica los comandos que 
 
 El archivo requirements. txt permite automatizar la instalación de paquetes y así se consigue:
 ```
-    $ pip3 freeze > requiremets.txt
+    $ pip3 freeze > requirements.txt
 ```
 
 ## Authors
